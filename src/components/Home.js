@@ -22,7 +22,7 @@ export const Home = forwardRef((props, ref) => {
           </a>
         </div>
         <div className="image">
-          <img src={process.env.PARCEL_IMAGE_URL} alt="Image" />
+          <img src="https://raw.githubusercontent.com/NitinG43/My-Portfolio/main/src/assets/Profile_image-modified.png" alt="Image" />
         </div>
       </div>
     </>
