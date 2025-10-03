@@ -1,0 +1,21 @@
+.flash{
+    padding: 1rem;
+    background-color: white;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+    box-shadow: 0 0 10px #15f66c;
+}
+.flash p{
+    color: #000000;
+    font-size: 1.1rem;
+    background-color: white;
+    
+}
+#success{
+    color: #15f66c;
+    margin: 1rem 0;
+}
