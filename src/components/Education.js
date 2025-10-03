@@ -39,7 +39,7 @@ export const Education=forwardRef((props,ref)=>{
 
         <div className="ed-section">
             <div className="study">
-             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoQgkCAkGmVgQk64DV3syEURxemUke1U-yKvbElFS4Q&s" alt="LOGO" />
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsS3ZPhQlxbv2gMZK7kkJ1Fak9M1g8AUgHhw&s" alt="LOGO" />
              <div className="info">
                 <p className="school-name">Rising Public High School Bairad (Shivpuri M.P.)</p>
                 <p className="study-info">Class 10th (MPBSE)</p>
